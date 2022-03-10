@@ -30,7 +30,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus-snapshots</id>
-            <url>http://40.83.250.80:8081/repository/maven-snapshots/</url>
+            <url>http://[nexus ip address]:[port nu]/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
